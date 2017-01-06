@@ -21,13 +21,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Added some helpful smileys to simplify whether one liked the server or not
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/1SQSg' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/1SQSg' width='40' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
